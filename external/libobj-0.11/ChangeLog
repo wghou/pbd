@@ -1,0 +1,2 @@
+# v0.11 (2017-05-19)
+remove all tr1 since tuple and functional are already included in c++ 11 standard.
