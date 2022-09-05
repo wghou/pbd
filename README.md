@@ -9,6 +9,8 @@ For efficient collision detection between differently sized particles and genera
 
 Originally the project was implemented with C++, OpenGL 4 and CUDA 8 using VS 2017. Ever since CMake support for CUDA has been improved dramatically. Recently I refactored and improved the CMake scripts so that it can be compiled with VS 2019 and CUDA 11. 
 
-![screenshot](data/assets/screenshot.png)
+Video on YouTube:
+
+[![](https://img.youtube.com/vi/MOWeGT9jZxQ/0.jpg)](https://www.youtube.com/watch?v=MOWeGT9jZxQ "Video on YouTube")
 
 [^1]: Macklin, Miles, et al. "Unified particle physics for real-time applications." ACM Transactions on Graphics (TOG) 33.4 (2014): 1-12.
